@@ -7,9 +7,15 @@ An AI model that classifies wildlife species using transfer learning.
 - TensorFlow/Keras implementation
 
 ## Classes
-- Cat ![Cat](cat.jpeg)
-- Dog  ![Dog](dog.jpeg)
-- Elephant ![Elephant](elephant.jpeg)
+
+### Cat
+<img src="cat.jpeg" width="250">
+
+### Dog
+<img src="dog.jpeg" width="250">
+
+### Elephant
+<img src="elephant.jpeg" width="250">
 
 ## Accuracy
 85% validation accuracy
