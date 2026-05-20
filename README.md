@@ -1,6 +1,10 @@
 # Wildlife Image Classifier
 An AI model that classifies wildlife species using transfer learning.
 
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 ## Features
 - MobileNetV2 transfer learning
 - Wildlife image classification
