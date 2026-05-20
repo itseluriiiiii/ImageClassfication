@@ -9,7 +9,7 @@ An AI model that classifies wildlife species using transfer learning.
 ## Classes
 - Cat ![Cat](images/cat.png)
 - Dog  ![Dog](images/dog.png)
-- Elephant ![Elephant](elephant/demo.png)
+- Elephant ![Elephant](images/elephant.png)
 
 ## Accuracy
 85% validation accuracy
