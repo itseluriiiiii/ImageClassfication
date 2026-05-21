@@ -6,6 +6,7 @@ An AI model that classifies wildlife species using transfer learning.
 </p>
 
 ## Features
+- Dataset Used - [Dataset](https://www.kaggle.com/datasets/antobenedetti/animals/data)
 - MobileNetV2 transfer learning
 - Wildlife image classification
 - TensorFlow/Keras implementation
